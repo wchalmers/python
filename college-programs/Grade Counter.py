@@ -15,5 +15,3 @@ elif Percentage >=49 and Percentage <69:
     print("Well Done you passed with a D! and your percentage was", Percentage)
 else:
     print("Sorry you failed the course")
-    
-    

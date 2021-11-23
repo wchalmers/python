@@ -16,4 +16,4 @@ Guess3=input("What is the third password?")
 if Guess1==Password1 and Guess2==Password2 and Guess3==Password3:
     print("Access Granted = You may now access the mainframe")
 else:
-    print("Sorry, on of more of your passwords were wrong.")
+    print("Sorry, one of more of your passwords were wrong.")

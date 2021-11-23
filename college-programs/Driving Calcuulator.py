@@ -5,7 +5,6 @@ Age=int(input("What age are you?"))
 
 if Age>=17:
     print("You are old enough to drive.")
-
 else:
     print ("Sorry, come back when your 17.")
 
